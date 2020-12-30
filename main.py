@@ -1,12 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 
-#todo:
-# 1) 使用者輸入 (done)
-# 2) 簡介
-# 3) 函式包裝
-# 4) 從首頁進入 (done)
-# 5) 整理好看點
 
 #網頁網址
 index_page=input("請輸入欲下載小說的網址: ")
